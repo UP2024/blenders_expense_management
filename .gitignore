@@ -1,0 +1,16 @@
+"node_modules/" 
+# Dependencies
+node_modules/
+*.log
+
+# Builds
+build/
+dist/
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
